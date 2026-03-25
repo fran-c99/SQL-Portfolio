@@ -5,9 +5,14 @@ SQL is a programming language used to create, interact with and request informat
 
 In a security related field, we use SQL filtering tools to find data to support decisions and analyze when things may go wrong.
 
+## What you are going to see here
+
+- Portfolio practices
+- Projects
+
 ## Exercises
 
-### Exercise 1: SQL Filters
+### Practice 1: SQL Filters
 I investigated security issues to help keep a system secure, discovering potential security issues that involve login attempts and employee machines. 
 
 The file is attached to the Repository.
