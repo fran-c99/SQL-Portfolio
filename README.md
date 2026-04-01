@@ -7,12 +7,12 @@ In a security related field, we use SQL filtering tools to find data to support 
 
 ## What you are going to see here
 
-- Portfolio practices
+- Exercises
+- Guides
 - Projects
 
 ## Exercises
 
-### Practice 1: Apply filters to SQL queries
-I investigated security issues to help keep a system secure, discovering potential security issues that involve login attempts and employee machines. 
+### Exercise 1: <a href="https://github.com/fran-c99/SQL-Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries%20-%20Portafolio.pdf">Apply filters to SQL queries</a>
+I investigated security issues to help keep a system secure by discovering potential security issues that involve login attempts and employee machines.
 
-The file is attached to the Repository.
